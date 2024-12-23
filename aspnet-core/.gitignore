@@ -251,15 +251,15 @@ paket-files/
 .idea/
 *.sln.iml
 
-# t3lmy
-src/t3lmy.Web/Logs/*
-src/t3lmy.Web.Host/Logs/*
-src/t3lmy.AuthServer/Logs/*
-src/t3lmy.HttpApi.Host/Logs/*
-src/t3lmy.HttpApi.Host/Logs/*
-src/t3lmy.DbMigrator/Logs/*
-src/t3lmy.Blazor.Server/Logs/*
-src/t3lmy.Blazor.Server.Tiered/Logs/*
+# com
+src/t3lmy.com.Web/Logs/*
+src/t3lmy.com.Web.Host/Logs/*
+src/t3lmy.com.AuthServer/Logs/*
+src/t3lmy.com.HttpApi.Host/Logs/*
+src/t3lmy.com.HttpApi.Host/Logs/*
+src/t3lmy.com.DbMigrator/Logs/*
+src/t3lmy.com.Blazor.Server/Logs/*
+src/t3lmy.com.Blazor.Server.Tiered/Logs/*
 
 # Use abp install-libs to restore.
 **/wwwroot/libs/*
